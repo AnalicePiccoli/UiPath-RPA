@@ -1,0 +1,46 @@
+﻿Receit ID: 47213527
+Receipt Date: 08/09/2022 00:00:00
+Valor de Venda: 20.89
+Soma total: 20.89
+-----------------------------
+Receit ID: 58462358
+Receipt Date: 08/23/2022 00:00:00
+Valor de Venda: 79.66
+Soma total: 100.55
+-----------------------------
+Receit ID: 78496352
+Receipt Date: 03/10/2023 00:00:00
+Valor de Venda: 84.64
+Soma total: 185.19
+-----------------------------
+Receit ID: 98598969
+Receipt Date: 05/16/2023 00:00:00
+Valor de Venda: 52.64
+Soma total: 237.83
+-----------------------------
+Receit ID: 85475826
+Receipt Date: 11/23/2023 00:00:00
+Valor de Venda: 11
+Soma total: 248.83
+-----------------------------
+
+Receit ID: 47213527
+Receipt Date: 08/09/2022 00:00:00
+Valor de Venda: 20.89
+Soma total: 20.89
+---------------------------------
+Receit ID: 58462358
+Receipt Date: 08/23/2022 00:00:00
+Valor de Venda: 79.66
+Soma total: 100.55
+---------------------------------
+Receit ID: 78496352
+Receipt Date: 03/10/2023 00:00:00
+Valor de Venda: 84.64
+Soma total: 185.19
+---------------------------------
+Receit ID: 98598969
+Receipt Date: 05/16/2023 00:00:00
+Valor de Venda: 52.64
+Soma total: 237.83
+---------------------------------
